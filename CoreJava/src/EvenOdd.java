@@ -5,6 +5,7 @@ public class EvenOdd {
 System.out.println(num1);
 	if(num1%2==0)
 	{
+		// abc
 		System.out.println("number is even");
 	}
 	else {
